@@ -13,4 +13,4 @@ jobs:
         runs-on: ubuntu-latest
         steps:
             - name: "failing script"
-              run: echoo "fail here"
+              run: echo "fail here"

@@ -1,0 +1,16 @@
+name: "Testing just curious to Know"
+on: push 
+jobs:
+    Script1:
+        runs-on: ubuntu-latest
+        steps:
+        - name: Switch branch
+          uses: actions/checkout@v3 
+
+        - name: echo check
+          run: echo "Hi"
+    Script2:
+        runs-on: ubuntu-latest
+        steps:
+            - name: "failing script"
+              run: echo "fail here"

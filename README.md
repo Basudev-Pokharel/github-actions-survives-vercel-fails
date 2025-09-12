@@ -6,3 +6,4 @@
 ## 2.Now I have added failing in production and preview .yml files, bgc:aqua; 
 ## 3.Now I have added failing in production and preview .yml files, bgc:**purple**; 
 ## 3.Now I have added passing things in production and preview .yml files, , bgc:yellow; 
+## 3.Now I have added failing in production and preview .yml files, bgc:**Beige**; 

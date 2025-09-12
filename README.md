@@ -5,3 +5,4 @@
 ## 1.wrong in preduction and preview .yml but main.yml is okay let's see and bgc:red
 ## 2.Now I have added failing in production and preview .yml files, bgc:aqua; 
 ## 3.Now I have added failing in production and preview .yml files, bgc:**purple**; 
+## 3.Now I have added passing things in production and preview .yml files, bgc:yellow; 

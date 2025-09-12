@@ -1,4 +1,4 @@
-# Vercel here checking thigs
+# Vercel here checking thigs [![Testing just curious to Know](https://github.com/Basudev-Pokharel/github-actions-survives-vercel-fails/actions/workflows/main.yml/badge.svg)](https://github.com/Basudev-Pokharel/github-actions-survives-vercel-fails/actions/workflows/main.yml)
 
 ## I have configured now in vercel in **preview.yml** & **production.yml** 
 

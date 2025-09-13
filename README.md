@@ -1,21 +1,3 @@
-## I have configured now in vercel in **preview.yml** & **production.yml** 
-
-## 1.wrong in preduction and preview .yml but main.yml is okay let's see and bgc:red
-## 2.Now I have added failing in production and preview .yml files, bgc:aqua; 
-## 3.Now I have added failing in production and preview .yml files, bgc:**purple**; 
-## 4.Now I have added passing things in production and preview .yml files, , bgc:yellow; 
-## 5.Now I have added failing in production and preview .yml files, bgc:**Beige**; 
-## 6.Now I have added passing things in production and preview .yml files, , bgc:Chartreuse; 
-## 7.Now I have added failing in production and preview .yml files, bgc:**coral**; 
-## 8.Now I have added passing things in production and preview .yml files, , bgc:DarkCyan; 
-## 9.Now I have added failing in production and preview .yml files, bgc:**BlueViolet**;  
-## 10.Now I have added passing in production and preview .yml files, bgc:**Crimson**; 
-## 11.Now I have added failing in production and preview .yml files, bgc:**DarkBlue**;  
-## 12.Now I have added failed both production&preview, bgc:**DarkSlateGrey**;  
-## 13.Now I have added failed in production only, bgc:**LightCoral**;  
-
-
-
 # 🚀 Vercel + GitHub Actions Experiments  
 
 [![Testing just curious to Know](https://github.com/Basudev-Pokharel/github-actions-survives-vercel-fails/actions/workflows/main.yml/badge.svg)](https://github.com/Basudev-Pokharel/github-actions-survives-vercel-fails/actions/workflows/main.yml)
@@ -49,7 +31,7 @@ This repository is my **playground** for testing how GitHub Actions and Vercel d
 | 11 | ❌ Fail     | Failed in both production & preview                            | 🔵 DarkBlue |
 | 12 | ❌ Fail     | Both production & preview failed together                      | 🌫️ DarkSlateGrey |
 | 13 | ❌ Fail     | Failed in production only                                      | 🌸 LightCoral |
-| 14 | ❌ Fail     | Failed in preview and passed in production                     | 🌸 MediumTurquoise |
+| 14 | ❌ Fail     | Failed in preview and passed in production                     | 🟦 MediumTurquoise |
 
 ---
 

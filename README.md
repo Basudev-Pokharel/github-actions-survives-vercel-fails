@@ -13,6 +13,7 @@
 ## 9.Now I have added failing in production and preview .yml files, bgc:**BlueViolet**;  
 ## 10.Now I have added passing in production and preview .yml files, bgc:**Crimson**; 
 ## 11.Now I have added failing in production and preview .yml files, bgc:**DarkBlue**;  
+## 12.Now I have added failed both production&preview, bgc:**DarkSlateGrey**;  
 
 
 
@@ -58,12 +59,16 @@ This repository is my **playground** for testing how GitHub Actions and Vercel d
 
 ---
 
+
+
 ## 🎯 Takeaway
 This repo is just for fun & learning.  
 The main lessons so far:  
 - GitHub Actions stop on error by default.  
 - Vercel needs repo auto-deploy disabled if you want Actions to control everything.  
 - Failing on purpose is a great way to test CI/CD pipelines.  
+
+vercel deplopyment Link: github-actions-survives-vercel-fail.vercel.app
 
 
 

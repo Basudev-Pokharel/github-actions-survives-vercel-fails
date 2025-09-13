@@ -1,5 +1,3 @@
-<!-- # Vercel here checking thigs [![Testing just curious to Know](https://github.com/Basudev-Pokharel/github-actions-survives-vercel-fails/actions/workflows/main.yml/badge.svg)](https://github.com/Basudev-Pokharel/github-actions-survives-vercel-fails/actions/workflows/main.yml)
--->
 ## I have configured now in vercel in **preview.yml** & **production.yml** 
 
 ## 1.wrong in preduction and preview .yml but main.yml is okay let's see and bgc:red
@@ -36,20 +34,25 @@ This repository is my **playground** for testing how GitHub Actions and Vercel d
 
 ## 🧪 Experiment Log  
 
-| # | Description | Background |
-|---|-------------|------------|
-| 1 | Wrong config in `production.yml` & `preview.yml`, but `main.yml` works fine | 🟥 Red |
-| 2 | Added intentional failing step in production & preview | 🟦 Aqua |
-| 3 | Another failing test in production & preview | 🟪 Purple |
-| 4 | Passing setup in production & preview | 🟨 Yellow |
-| 5 | Failing again in production & preview | 🤎 Beige |
-| 6 | Passing setup again in production & preview | 💚 Chartreuse |
-| 7 | Another failing step (chaos continues) | 🧡 Coral |
-| 8 | Passing workflow restored | 🟦 DarkCyan |
-| 9 | Final failing test for fun | 🟪 BlueViolet |
-| 10| Passing test for fun | 🟪 Crimson |
+| #  | Status      | Description                                                   | Background |
+|----|-------------|---------------------------------------------------------------|------------|
+| 1  | ❌ Fail     | Wrong config in `production.yml` & `preview.yml`, but `main.yml` works fine | 🟥 Red |
+| 2  | ❌ Fail     | Added intentional failing step in production & preview         | 🟦 Aqua |
+| 3  | ❌ Fail     | Another failing test in production & preview                   | 🟪 Purple |
+| 4  | ✔️ Pass    | Passing setup in production & preview                          | 🟨 Yellow |
+| 5  | ❌ Fail     | Failing again in production & preview                          | 🤎 Beige |
+| 6  | ✔️ Pass    | Passing setup again in production & preview                    | 💚 Chartreuse |
+| 7  | ❌ Fail     | Another failing step (chaos continues)                         | 🧡 Coral |
+| 8  | ✔️ Pass    | Passing workflow restored                                      | 🟦 DarkCyan |
+| 9  | ❌ Fail     | Final failing test for fun                                     | 🟪 BlueViolet |
+| 10 | ✔️ Pass    | Passing test for fun                                           | ❤️ Crimson |
+| 11 | ❌ Fail     | Failed in both production & preview                            | 🔵 DarkBlue |
+| 12 | ❌ Fail     | Both production & preview failed together                      | 🌫️ DarkSlateGrey |
+| 13 | ❌ Fail     | Failed in production only                                      | 🌸 LightCoral |
+| 14 | ❌ Fail     | Failed in preview and passed in production                     | 🌸 MediumTurquoise |
 
 ---
+
 
 ## 🛠 How It Works
 - **main.yml** → Runs simple test scripts.  
@@ -69,7 +72,8 @@ The main lessons so far:
 - Vercel needs repo auto-deploy disabled if you want Actions to control everything.  
 - Failing on purpose is a great way to test CI/CD pipelines.  
 
-vercel deplopyment Link: github-actions-survives-vercel-fail.vercel.app
+## 🚀 Deployment  
 
+🔗 [View Live on Vercel](https://github-actions-survives-vercel-fail.vercel.app/)  
 
 

@@ -14,6 +14,7 @@
 ## 10.Now I have added passing in production and preview .yml files, bgc:**Crimson**; 
 ## 11.Now I have added failing in production and preview .yml files, bgc:**DarkBlue**;  
 ## 12.Now I have added failed both production&preview, bgc:**DarkSlateGrey**;  
+## 13.Now I have added failed in production only, bgc:**LightCoral**;  
 
 
 
